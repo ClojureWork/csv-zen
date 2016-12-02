@@ -1,14 +1,11 @@
-# csv-zen
+# CSV Zen
 
-A Clojure library designed to ... well, that part is up to you.
+Web app from functional.tv
 
 ## Usage
 
-FIXME
+`lein run`
 
-## License
+Open browser to http://localhost:8080
 
-Copyright © 2016 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Viola!
